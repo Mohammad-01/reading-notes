@@ -24,5 +24,4 @@ GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScri
 Project, user, and organization sites are the three types of GitHub Pages sites. Project sites are associated with a GitHub Enterprise Server-hosted project, such as a JavaScript library or a recipe collection. A GitHub Enterprise Server account is used to link user and corporate sites.
 
 ### For more about GitHub Pages (Visit the link below)
-https://pages.github.com/
-
+[GitHub Pages](https://pages.github.com/)
