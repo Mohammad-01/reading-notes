@@ -18,7 +18,7 @@ Hello, My name is Mohammad Alhasan, I'm 20 years old, I study software engineeri
 * Pay Closer Attention to the Phrases You Use.
 
 #### To learn more about the growth mindset (click on link below )
-https://www.mdpi.com/2076-3425/8/2/20
+[Growth Mindset](https://www.mdpi.com/2076-3425/8/2/20)
 
 
 
