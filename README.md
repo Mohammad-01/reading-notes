@@ -2,7 +2,7 @@
 ---
 ### Table of content 
 | File              | Link                       |
-| ----------------- | -------------------------- |
+| _________________ | __________________________ |
 | Read01.md         |[Open file Read01](https://mohammad-01.github.io/reading-notes/Read01)     |
 | Read02.md|[Open file Read02](https://mohammad-01.github.io/reading-notes/Read02)|
 | GrowthMindset.md  |[Open file GrowthMindset](https://mohammad-01.github.io/reading-notes/GrowthMindset)|
